@@ -1,6 +1,6 @@
 "use strict";
 
-const API_URL = "http://localhost:3000";
+const API_URL = "https://emp-didaticos-back.onrender.com";
 
 document.addEventListener("DOMContentLoaded", () => {
     const params = new URLSearchParams(window.location.search);
